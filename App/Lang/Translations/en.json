@@ -1,0 +1,253 @@
+{
+  "internet": {
+    "title_button": "OK",
+    "no_internet": "Lost Internet connection",
+    "sub_no_internet": "Check your internet connection.",
+    "internet": "Network connected",
+    "sub_internet": "Internet connection is successful."
+  },
+  "setting": {
+    "logout": "Logout",
+    "change_lang": "Change language",
+    "change_password": "Change password",
+    "default_signing_method": "Default signing method",
+    "information_sidoc": "Information Sidoc",
+    "customer_management": "Customer management",
+    "login_with_touch/faceid": "Login with Touch/FaceID"
+  },
+  "sign_in": {
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "forgot": "Forgot password?",
+    "error": "Invalid email or password",
+    "success": "You have successfully signed in",
+    "change_lang": "Change language",
+    "back": "Back",
+    "texterror": "Please check your username or password",
+    "texterror5line1": "You have entered the wrong account",
+    "texterror5line2": "or password 5 times",
+    "text_error": "Please check your username or password",
+    "message_check_trim": "Username must not contain any whitespace and is limited to a maximum of 50 characters.",
+    "message_empty_username": "Username is required to be filled",
+    "message_empty_password": "Password is required to be filled",
+    "message_login_error": "Account Invalid",
+    "message_login_success": "Hello,{{name}}! Welcome to Sidoc",
+    "start": "Get Started",
+    "next": "Next",
+    "skip": "Skip",
+    "instruct": " Please enter your username and password",
+    "permission": "You have not granted permission or not registered fingerprint"
+  },
+  "tabs": {
+    "Home": "Home",
+    "MyDoc": "My Document",
+    "CompanyDoc": "Company Document",
+    "Report": "Report",
+    "CompanyManager": "Company manager",
+    "my_documents": "My Documents",
+    "company_documents": "Company Documents"
+  },
+  "language": {
+    "en": "English",
+    "vi": "Vietnamese",
+    "changeLanguage": "En"
+  },
+  "customer": {
+    "header_customer": "Customer management",
+    "search": "Search by name / ID number / customer document number",
+    "title_search": "Search",
+    "customer_list": "Customer list",
+    "identification_number": "Identification number",
+    "customer_name": "Customer name",
+    "address": "Address",
+    "email": "Email",
+    "phone_number": "Phone number",
+    "type_of_customer": "Type of customer",
+    "author": "Creator",
+    "filter": {
+      "placeholder_filter": "Select item",
+      "placeholder_search": "Search"
+    }
+  },
+
+
+  "passRecovery":{
+    "PasswordRecovery":"Password Recovery",
+    "request":"Request",
+    "texterrorline1":"Please check your username and",
+    "texterrorline2":"email associated with your account",
+    "texterrorline3":"to retrieve your password !",
+    "cancle":"Cancle",
+    "email": "Email",
+    "option": "or sign in with biometric",
+    "message_empty_email": "Email is required to be filled",
+    "message_forgot_error": "Email or Username Invalid",
+    "introduction": "Please enter your username and email"
+  },
+  "backlogin": {
+    "backlogin": "Instructions",
+    "instructions": "If your username and email are correct",
+    "instructionsline2": "the system will send password recovery ",
+    "instructionsline3": " information to your email ",
+    "instructionsline4": "Please check your email and follow the",
+    "instructionsline5": "instructions",
+    "button": "Back"
+  },
+  "changepassword": {
+    "changepass": "Change Password",
+    "alert": "The current password is incorrect, please check again",
+    "button": "Update",
+    "password": "Current password",
+    "new_pass": "New Password",
+    "confirm_pass": "Confirm new password",
+    "message_check_trim": "Password is required to be filled",
+    "message_check_trim_confirm": "Password confirm is required to be filled",
+    "message_check_trim_new_pass": "New password is required to be filled"
+  },
+  "changepasssuccess": {
+    "changepasssuccess": "Change password success",
+    "button": "Login",
+    "alertline1": "Password update successful,",
+    "alertline2": "please login with new password !"
+  },
+  "Signinoption": {
+    "option": "Sign In Options",
+    "btnnormal": "Log in normally",
+    "btnfinger": "Fingerprint login"
+  },
+  "Signinbio": {
+    "touch": "Fingerprint login",
+    "btnfinger": "Touch to login",
+    "signin": "Sign In"
+  },
+  "my_document": {
+    "waiting_for_you_to_sign": "Waiting for sign",
+    "waiting_for_your_approval": "Waiting for approval",
+    "negotiating_process": "Negotiating process ",
+    "success": "Success",
+    "reject": "Reject",
+    "waiting_for_process": "Waiting for process "
+  },
+  "status": {
+    "document_status": "Document Status",
+    "handle": "I processing",
+    "manage": "I manage",
+    "draft": "Draft",
+    "negotiating": "Negotiating",
+    "negotiated": "Negotiated",
+    "signing": "Signing",
+    "done": "Done",
+    "rejected": "Rejected",
+    "canceled": "Canceled",
+    "processed": "Processed",
+    "waiting": "Waiting for progressing"
+  },
+  "noti": {
+    "read": "Read",
+    "unread": "Unread",
+    "select": "Select all",
+    "mark": "Mark as read",
+    "notify_initial_0": "User",
+    "notify_initial_1": "has initialed successfully document",
+    "notify_initial_2": "The document has been finished signing.",
+    "notify_initial_success": "You has initialed successfully document",
+    "notify_reject_initial_0": "User",
+    "notify_reject_initial_1": "has rejected initialing document",
+    "notify_reject_initial_success": "You has rejected initialing document",
+    "notify_sign_approval_0": "User",
+    "notify_sign_approval_1": "has signed successfully document",
+    "notify_sign_approval_2": "The document has been finished signing.",
+    "notify_sign_approval_success": "You has signed successfully document",
+    "notify_sign_reject_0": "User",
+    "notify_sign_reject_1": "has rejected signing document",
+    "notify_sign_reject_success": "You has initialed successfully document",
+    "notify_initial_title": "Initial document successfully",
+    "notify_reject_initial_title": "Reject initialing document",
+    "notify_sign_approval_title": "Sign document successfully",
+    "notify_sign_reject_title": "Reject signing document",
+    "done_document": "Document has been done"
+  },
+  "name_button_tab": {
+    "department_unit_manager": "Department/ Unit/ Manager",
+    "status": "Status",
+    "document_type": "Document type",
+    "date": "Date"
+  },
+  "sort": {
+    "sort": "Sorted by",
+    "name": "Name",
+    "date_time": "Create Date"
+  },
+  "side_menu": {
+    "profile": "Công ty CP Phần mềm Siten",
+    "setting": "Setting",
+    "help": "Help",
+    "storage": "Storage",
+    "document": "Document",
+    "document_template": "Document Template",
+    "partners": "Partners"
+  },
+  "on_boarding": {
+    "content": "Lorem Ipsum is simply dummy text of the \n printing and typesetting industry.",
+    "welcome_title": "Document System \n Electronic",
+    "on_boarding_drafting": "Drafting",
+    "on_boarding_negotiation": "Negotiation",
+    "on_boarding_contract": "Contract",
+    "on_boarding_manage": "Manage",
+    "on_boarding_integration": "Integration"
+  },
+  "header": {
+    "search": "Search",
+    "document_type": "Document type",
+    "document_date": "Date"
+  },
+  "search": {
+    "not_find": "Did not find any document",
+    "select_date": "Select date",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "weeks": "This week",
+    "months": "This month",
+    "years": "This year",
+    "from_date": "From day",
+    "to_date": "To day",
+    "from_to": "From day to day",
+    "text_button": "Done"
+  },
+  "dash-board": {
+    "welcome": "Hello",
+    "your-work": "Your job",
+    "expire-document": "Expire Document",
+    "done-document": "Done Document",
+    "process-document": "Processing Document",
+    "manage-document": "Manage Document",
+    "company-doc": "Company document statistics",
+    "draft": "draft",
+    "signer": "signer",
+    "negotiation": "negotiation",
+    "complete": "complete",
+    "denied": "denied",
+    "cancelled": "Cancelled",
+    "contract-list": "Contract List",
+    "confirm": "Are you sure about that ?",
+    "turn-on": "Turn on",
+    "turn-off": "Turn off"
+  },
+  "update-version": {
+    "now": "Update now",
+    "later": "Update later",
+    "notification": "New version is available"
+  },
+  "option":{
+    "accept":"Accept",
+    "sign": "Sign",
+    "reject":"Reject",
+    "remove":"Remove",
+    "process":"See implementation progress",
+    "document_history":"Document history",
+    "share":"Share"
+  }
+}

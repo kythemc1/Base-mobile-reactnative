@@ -1,0 +1,249 @@
+{
+  "internet": {
+    "title_button": "OK",
+    "no_internet": "Mất kết nối mạng",
+    "sub_no_internet": "Kiểm tra đường truyền internet của bạn.",
+    "internet": "Đã kết nối mạng",
+    "sub_internet": "Kết nối mạng internet thành công."
+  },
+  "setting": {
+    "logout": "Đăng xuất",
+    "change_lang": "Đổi ngôn ngữ",
+    "change_password": "Đổi mật khẩu",
+    "default_signing_method": "Phương thức ký mặc định",
+    "information_sidoc": "Thông tin Sidoc",
+    "customer_management": "Quản lý khách hàng",
+    "login_with_touch/faceid": "Đăng nhập bằng Touch/FaceID"
+  },
+  "sign_in": {
+    "email": "Email",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "sign_in": "Đăng nhập",
+    "signup": "Đăng ký",
+    "forgot": "Quên mật khẩu?",
+    "error": "Invalid email or password",
+    "success": "You have successfully signed in",
+    "change_lang": "Đổi ngôn ngữ",
+    "back": "Trở lại",
+    "texterror": "Vui lòng kiểm tra tên người dùng hoặc mật khẩu của bạn",
+    "texterror5line1": "Bạn đã nhập sai tài khoản",
+    "texterror5line2": "hoặc mật khẩu 5 lần",
+    "text_error": "Vui lòng kiểm tra tên người dùng hoặc mật khẩu của bạn",
+    "message_check_trim": "Tên người dùng không được chứa bất kỳ khoảng trắng nào và giới hạn tối đa 50 ký tự.",
+    "message_empty_username": "Tên đăng nhập là bắt buộc",
+    "message_empty_password": "Mật khẩu là bắt buộc nhập",
+    "message_login_error": "Tài khoản không đúng",
+    "message_login_success": "Xin chào,{{name}}! Chào mừng đến Sidoc",
+    "start": "Bắt Đầu",
+    "next": "Tiếp",
+    "skip": "Bỏ Qua",
+    "instruct": "Vui lòng nhập tên đăng nhập và mật khẩu của bạn",
+    "permission": "Bạn chưa cấp quyền hoặc chưa đăng ký vân tay"
+  },
+  "tabs": {
+    "Home": "Trang chủ",
+    "MyDoc": "Văn bản của tôi",
+    "CompanyDoc": "Văn bản công ty",
+    "Report": "Báo cáo",
+    "CompanyManager": "Quản lý công ty",
+    "my_documents": "Văn bản của tôi",
+    "company_documents": "Văn bản công ty"
+  },
+  "language": {
+    "en": "English",
+    "vi": "Tiếng Việt",
+    "changeLanguage": "Vi"
+  },
+  "customer": {
+    "header_customer": "Quản lý khách hàng",
+    "search": "Tìm kiếm theo Tên / MST / Số giấy tờ khách hàng",
+    "title_search": "Tìm kiếm",
+    "customer_list": "Danh sách khách hàng",
+    "identification_number": "Số giấy tờ",
+    "customer_name": "Tên khách hàng",
+    "address": "Địa chỉ",
+    "email": "Email",
+    "phone_number": "Số điện thoại",
+    "type_of_customer": "Loại khách hàng",
+    "author": "Người tạo",
+    "filter": {
+      "placeholder_filter": "Lựa chọn mục ",
+      "placeholder_search": "Tìm kiếm"
+    }
+  },
+  "passRecovery": {
+    "PasswordRecovery": "Khôi Phục Mật Khẩu",
+    "request": "Yêu cầu",
+    "email": "Email",
+    "cancle": "Hủy",
+    "option": "hoặc đăng nhập bằng sinh trắc học",
+    "message_empty_email": "Email là bắt buộc nhập",
+    "message_forgot_error": "Email hoặc tài khoản không chính xác",
+    "introduction": "Vui lòng nhập tên người dùng và email của bạn"
+  },
+  "backlogin": {
+    "backlogin": "Hướng Dẫn",
+    "instructions": "Nếu đúng tên đăng nhập và email,",
+    "instructionsline2": "hệ thống sẽ gửi thông tin khôi phục",
+    "instructionsline3": " mật khẩu về email của bạn",
+    "instructionsline4": "Vui lòng kiểm tra email và làm theo ",
+    "instructionsline5": "hướng dẫn",
+    "button": "Quay Lại"
+  },
+  "changepassword": {
+    "changepass": "Thay đổi mật khẩu",
+    "alert": "Mật khẩu hiện tại không chính xác, vui lòng kiểm tra lại !",
+    "button": "Update",
+    "password": "Mật khẩu hiện tại",
+    "new_pass": "Mật khẩu mới",
+    "confirm_pass": "Xác nhận mật khẩu mới",
+    "message_check_trim": "Mật khẩu là bắt buộc nhập",
+    "message_check_trim_confirm": "Xác nhận mật khẩu là bắt buộc nhập",
+    "message_check_trim_new_pass": "Mật khẩu mới là bắt buộc nhập"
+  },
+  "changepasssuccess": {
+    "changepasssuccess": "Đổi mật khẩu thành công",
+    "button": "Đăng nhập",
+    "alertline1": "Cập nhật mật khẩu thành công,",
+    "alertline2": "vui lòng đăng nhập bằng mật khẩu mới!"
+  },
+  "Signinoption": {
+    "option": "Tùy chọn đăng nhập",
+    "btnnormal": "Đăng nhập bình thường",
+    "btnfinger": "Đăng nhập bằng vân tay"
+  },
+  "Signinbio": {
+    "touch": "Đăng nhập vân tay",
+    "btnfinger": "Chạm để đăng nhập",
+    "signin": "Đăng Nhập"
+  },
+  "my_document": {
+    "waiting_for_you_to_sign": "Chờ bạn ký",
+    "waiting_for_your_approval": "Chờ bạn duyệt",
+    "negotiating_process": "Đang thương thảo ",
+    "success": "Hoàn thành",
+    "reject": "Từ chối",
+    "waiting_for_process": "Chờ tôi xử lý "
+  },
+  "status": {
+    "document_status": "Trạng thái văn bản",
+    "handle": "Tôi xử lý",
+    "manage": "Tôi quản lý",
+    "draft": "Nháp",
+    "negotiating": "Đang thương thảo",
+    "negotiated": "Đã thương thảo",
+    "signing": "Đang trình ký",
+    "done": "Đã hoàn thành",
+    "rejected": "Bị từ chối",
+    "canceled": "Đã huỷ",
+    "processed": "Đang xử lý",
+    "waiting": "Chờ xử lý"
+  },
+  "noti": {
+    "read": "Đã đọc",
+    "unread": "Chưa đọc",
+    "select": "Chọn tất cả",
+    "mark": "đánh dấu đã đọc",
+    "notify_initial_0": "Người dùng",
+    "notify_initial_1": "đã ký nháy văn bản",
+    "notify_initial_2": "Văn bản đã được hoàn thành ký duyệt.",
+    "notify_initial_success": "Bạn đã ký nháy thành công văn bản",
+    "notify_reject_initial_0": "Người dùng",
+    "notify_reject_initial_1": "đã từ chối ký nháy văn bản",
+    "notify_reject_initial_success": "Bạn đã từ chối ký nháy thành công văn bản",
+    "notify_sign_approval_0": "Người dùng",
+    "notify_sign_approval_1": "đã ký duyệt văn bản",
+    "notify_sign_approval_2": "Văn bản đã được hoàn thành ký duyệt.",
+    "notify_sign_approval_success": "Bạn đã ký duyệt thành công văn bản",
+    "notify_sign_reject_0": "Người dùng",
+    "notify_sign_reject_1": "đã từ chối ký duyệt văn bản",
+    "notify_sign_reject_success": "Bạn đã từ chối ký duyệt thành công văn bản",
+    "notify_initial_title": "Ký nháy thành công",
+    "notify_reject_initial_title": "Từ chối ký nháy",
+    "notify_sign_approval_title": "Ký duyệt thành công",
+    "notify_sign_reject_title": " Từ chối ký duyệt",
+    "done_document": "Hoàn thành văn bản"
+  },
+  "name_button_tab": {
+    "department_unit_manager": "Đơn vị/ Phòng ban/ Người quản lý",
+    "status": "Trạng thái",
+    "document_type": "Loại văn bản",
+    "date": "Thời gian"
+  },
+  "sort": {
+    "sort": "Sắp xếp theo",
+    "name": "Tên",
+    "date_time": "Thời gian tạo"
+  },
+  "side_menu": {
+    "profile": "Công ty CP Phần mềm Siten",
+    "setting": "Cài đặt",
+    "help": "Hỗ trợ",
+    "storage": "Bộ nhớ",
+    "document": "Văn bản",
+    "document_template": "Văn bản mẫu",
+    "partners": "Đối tác"
+  },
+  "on_boarding": {
+    "content": "Lorem Ipsum is simply dummy text of the \n printing and typesetting industry.",
+    "welcome_title": "Hệ Thống Văn Bản \n Điện Tử",
+    "on_boarding_drafting": "Soạn thảo",
+    "on_boarding_negotiation": "Thương thảo",
+    "on_boarding_contract": "Ký kết",
+    "on_boarding_manage": "Quản lý",
+    "on_boarding_integration": "Tích hợp"
+  },
+  "header": {
+    "search": "Tìm kiếm",
+    "document_type": "Loại văn bản",
+    "document_date": "Ngày tháng"
+  },
+  "search": {
+    "not_find": "Không tìm thấy văn bản nào",
+    "select_date": "Chọn ngày",
+    "today": "Hôm nay",
+    "yesterday": "Hôm qua",
+    "weeks": "Tuần này",
+    "months": "Tháng này",
+    "years": "Năm này",
+    "from_date": "Từ ngày",
+    "to_date": "Đến ngày",
+    "from_to": "Từ ngày đến ngày",
+    "text_button": "Xong"
+  },
+  "dash-board": {
+    "welcome": "Xin chào",
+    "your-work": "Công việc của bạn",
+    "expire-document": "Tài liệu hết hạn",
+    "done-document": "Tài liệu đã xong",
+    "process-document": "Tài liệu đang xử lý",
+    "manage-document": "Tài liệu quản lý",
+    "company-doc": "Thống kê văn bản công ty",
+    "draft": "Nháp",
+    "signer": "Trình ký",
+    "negotiation": "Thương thảo",
+    "complete": "Hoàn thành",
+    "denied": "Đã từ chối",
+    "cancelled": "Đã hủy",
+    "contract-list": "Danh sách hợp đồng",
+    "confirm": "Bạn có chắc chắn về điều đó?",
+    "turn-on": "Bật",
+    "turn-off": "Tắt"
+  },
+  "update-version": {
+    "now": "Cập nhật ngay",
+    "later": "Cập nhật sau",
+    "notification": "Đã có phiên bản mới"
+  },
+  "option":{
+    "accept":"Duyệt",
+    "sign": "Ký kết",
+    "reject":"Từ chối",
+    "remove":"Xoá",
+    "process":"Tiến độ thực hiện",
+    "document_history":"Lịch sử văn bản",
+    "share":"Tìm kiếm"
+  }
+}
+

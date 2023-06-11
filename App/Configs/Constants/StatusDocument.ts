@@ -1,0 +1,16 @@
+export const DocumentStatus = {
+    DRAFT: 'DRAFT',
+    NEGOTIATING: 'NEGOTIATING',
+    NEGOTIATED: 'NEGOTIATED',
+    SIGNING: 'SIGNING',
+    DONE: 'DONE',
+    REJECTED: 'REJECTED',
+    CANCELED: 'CANCELED'
+};
+export const DocumentNodeStatus = {
+    PROCESSING: 'PROCESSING',
+    PROCESSED: 'PROCESSED',
+    DONE: 'DONE',
+    REJECTED: 'REJECTED',
+    CANCELED: 'CANCELED'
+};

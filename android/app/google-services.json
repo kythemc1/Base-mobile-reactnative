@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "527649850754",
+    "project_id": "siten2202-sidoc",
+    "storage_bucket": "siten2202-sidoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527649850754:android:8644972d65e4e14d82fb9b",
+        "android_client_info": {
+          "package_name": "vn.sidoc.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527649850754-7bue0tsli9vqjpvjmt07ennlhbdb1hup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFR8GSfrLsVIRSFmdWcjDZJ1-NTZyUo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527649850754-7bue0tsli9vqjpvjmt07ennlhbdb1hup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527649850754-ofe39dauhc6o56es0omv68ulg4hjcbmd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.sidoc.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

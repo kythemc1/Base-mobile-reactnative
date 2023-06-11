@@ -1,0 +1,18 @@
+export enum STATUS_CODES {
+  OK = 200 /* 200 OK: Yêu cầu thành công */,
+  Created = 201 /* 201 Created: Yêu cầu tạo mới thành công*/,
+  No_Content = 204 /*204 No Content: Yêu cầu được xử lý thành công nhưng không có nội dung trả về.*/,
+  Moved_Permanently = 301 /*301 Moved Permanently: Địa chỉ URL đã chuyển hướng hoàn toàn sang địa chỉ URL mới*/,
+  Found = 302 /*302 Found: Yêu cầu tạm thời chuyển hướng sang một địa chỉ URL mới*/,
+  Not_Modified = 304 /*304 Not Modified: Trình duyệt được thông báo rằng trang được yêu cầu không có thay đổi.*/,
+  Bad_Request = 400 /*400 Bad Request: Yêu cầu không đúng cú pháp hoặc bị thiếu thông tin.*/,
+  Unauthorized = 401 /*401 Unauthorized: Không có quyền truy cập tài nguyên yêu cầu.*/,
+  Forbidden = 403 /*403 Forbidden: Server từ chối truy cập tài nguyên yêu cầu.*/,
+  Not_Found = 404 /*404 Not Found: Không tìm thấy trang yêu cầu*/,
+  Method_Not_Allowed = 405 /*405 Method Not Allowed: Phương thức yêu cầu không được hỗ trợ.*/,
+  Request_Timeout = 408 /*408 Request Timeout: Server không phản hồi yêu cầu của client.*/,
+  Internal_Server_Error = 500 /*500 Internal Server Error: Lỗi nội bộ server, có thể do cấu hình sai hoặc lỗi phần mềm.*/,
+  Bad_Gateway = 502 /*502 Bad Gateway: Lỗi kết nối giữa các server khi sử dụng load balancing.*/,
+  Service_Unavailable = 503 /*503 Service Unavailable: Server không thể xử lý yêu cầu do quá tải hoặc bảo trì.*/,
+  Gateway_Timeout = 504 /*504 Gateway Timeout: Không thể kết nối đến server trong khoảng thời gian nhất định.*/,
+}

@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Fonts/LexendDeca-Black.ttf",
+      "sha1": "a1f82155c5152df3340bda22dfd597136dd1785b"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Bold.ttf",
+      "sha1": "937202df69ae73e1907dcf7a863fc2ae8fbf941e"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-ExtraBold.ttf",
+      "sha1": "d7d4ddc64d6c1b0745afe68567456fab8a944991"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-ExtraLight.ttf",
+      "sha1": "75df5eeb42373de976633ef260ed8acd5afeba1e"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Light copy.ttf",
+      "sha1": "91cd10b0c1b028e39c9a42cafcf3888df43133f6"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Light.ttf",
+      "sha1": "91cd10b0c1b028e39c9a42cafcf3888df43133f6"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Medium.ttf",
+      "sha1": "f986467303f36ab72a7edf6ee6baff123154d921"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Regular.ttf",
+      "sha1": "a6f9d0a74232e34dd5eb7aeff9f0febf0000248b"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-SemiBold.ttf",
+      "sha1": "8f5005c8297b238c3684ff28b61f0186657c9eb9"
+    },
+    {
+      "path": "Assets/Fonts/LexendDeca-Thin.ttf",
+      "sha1": "788bf87cda97634e48ab0a78f29918e1b8227f6c"
+    }
+  ]
+}

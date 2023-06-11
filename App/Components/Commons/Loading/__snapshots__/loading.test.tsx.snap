@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test loading component 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0.4)",
+      "height": "100%",
+      "justifyContent": "center",
+      "position": "absolute",
+      "width": "100%",
+      "zIndex": 1,
+    }
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#143980"
+    size="large"
+  />
+</View>
+`;
